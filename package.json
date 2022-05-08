@@ -1,0 +1,19 @@
+{
+  "name": "helium.js",
+  "version": "1.0.4",
+  "description": "Node.js version of HeliumWeb",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeliumMinecraft/helium.js.git"
+  },
+  "author": "EnriquitoMC, Plxyer234, Danidev819 and Helium authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HeliumMinecraft/helium.js/issues"
+  },
+  "homepage": "https://github.com/HeliumMinecraft/helium.js#readme"
+}
